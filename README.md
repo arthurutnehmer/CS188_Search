@@ -1,4 +1,3 @@
-Based on the information provided from your `Project 1 _ CS 188 Summer 2024.pdf` file and the `search.py` file, here’s a draft README for your project:
 
 ---
 
@@ -106,4 +105,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-You can copy and paste this entire text into your `README.md` file on GitHub.
